@@ -1,3 +1,5 @@
+//!first practice question of object
+
 const product {
     Name = "Ball Pen",
     Company ="Dollar",
@@ -6,7 +8,7 @@ const product {
     Material = "Plastic"
 };
 
-/**  second question */ 
+/**  second practice question of object */ 
 
 const instaProfile = {
     userName = "maaz_ather_",
